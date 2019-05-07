@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "2",
-    "ref": "iroot/ref"
+    "ref": "https://github.com/iroot/ref/tarball/prebuilt"
   },
   "devDependencies": {
     "bindings": "~1.2.0",
     "nan": "2",
     "mocha": "*",
-    "ref-array": "iroot/ref-array"
+    "ref-array": "https://github.com/iroot/ref-array/tarball/prebuilt"
   }
 }
